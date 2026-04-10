@@ -18,7 +18,24 @@
 
 ---
 
-## Key Features
+## Hardware Implementation
+
+### My Contribution
+- Designed and implemented the hardware setup (Arduino, GPS, GSM, IR sensors)
+- Integrated sensors for passenger entry and exit detection
+- Tested real-time data flow for tracking and occupancy monitoring
+
+### Hardware Setup
+![Hardware Setup](https://raw.githubusercontent.com/ShreyashRaj007/Multidisciplinary-Project/main/basicmdp.jpeg)
+
+### Components Used
+- Arduino Uno
+- GPS Module
+- GSM Module (SIM800L)
+- IR Sensors
+- LCD Display
+- Buck Converter
+
 
 | Feature | What It Does |
 |---------|-------------|
