@@ -20,7 +20,7 @@
 
 ## Hardware Implementation
 
-### My Contribution
+### My Contribution (Shreyash Raj)
 - Designed and implemented the hardware setup (Arduino, GPS, GSM, IR sensors)
 - Integrated sensors for passenger entry and exit detection
 - Tested real-time data flow for tracking and occupancy monitoring
